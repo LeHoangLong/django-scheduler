@@ -1,0 +1,7 @@
+# my.cnf
+[client]
+host=db
+database = localhost_scheduler
+user = scheduler
+password = password
+default-character-set = utf8

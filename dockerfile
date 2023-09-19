@@ -1,0 +1,1 @@
+FROM lehoanglong/django-scheduler
